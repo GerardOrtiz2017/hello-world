@@ -5,3 +5,4 @@ This is a list
 * item 2
 * item 3
 
+This is a **Bold** text
